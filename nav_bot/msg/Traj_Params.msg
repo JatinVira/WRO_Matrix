@@ -1,0 +1,9 @@
+bool go_forward
+bool go_backward
+bool safe_fov_area
+bool proximity_right_extreme
+bool proximity_left_extreme
+bool proximity_right_straight
+bool proximity_left_straight
+string object_loc_in_frame
+string object_turn_in_frame
